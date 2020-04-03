@@ -1,4 +1,4 @@
-module apns2
+module github.com/webdizi/apns2
 
 go 1.13
 
